@@ -1,5 +1,6 @@
 local-env/
 .DS_Store
+# gitignoring large files. Please contact the authors to get the data
 *.mat
 *.csv
 *.npy
