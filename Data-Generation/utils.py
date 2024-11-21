@@ -1,7 +1,7 @@
 from datetime import datetime
 import pytz
 
-def non_zero_yuyupos(array):
+def find_non_zero_positions(array):
     """
     Find positions of non-zero elements in an array.
     
